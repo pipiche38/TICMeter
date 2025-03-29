@@ -59,7 +59,7 @@ Compile and send [`firmware`](/firmware) files to the ESP32-C6
 
 ### Zigbee example - Domoticz Zigbee4Domoticz
 
-<img src="[img/Zigbee_Example.png](https://zigbeefordomoticz.github.io/wiki/Images/GammaTroniques-TICMeter.png)" alt="ZigbeeforDomoticz" height="600"/>
+<img src="[https://zigbeefordomoticz.github.io/wiki/Images/GammaTroniques-TICMeter.png]" alt="ZigbeeforDomoticz" height="600"/>
 
 #### Tuya example
 
