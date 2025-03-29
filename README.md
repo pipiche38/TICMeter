@@ -30,7 +30,6 @@ More info about the product: https://www.kisskissbankbank.com/fr/projects/ticmet
 [![home-assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
 [![jeedom](https://img.shields.io/badge/jeedom-94CA02?style=for-the-badge&logo=jeedom&logoColor=white)](https://www.jeedom.com/)
 [![domoticz](https://img.shields.io/badge/domoticz-0078C1?style=for-the-badge&logo=domoticz&logoColor=white)](https://www.domoticz.com/)
-[![domoticz-plugin-z4d](https://img.shields.io/badge/domoticz-0078C1?style=for-the-badge&logo=domoticz&logoColor=white)](https://www.domoticz.com/)
 
 - Created with : 
 
